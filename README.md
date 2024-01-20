@@ -4,6 +4,10 @@
 
 In this manual, you will learn how to configure a REST to SOAP Gateway using Python. This gateway will allow you to receive REST requests and convert them into SOAP requests before sending them to a remote SOAP server.
 
+***Language***
+- 🇺🇸 English
+- [🇪🇸 Español](https://github.com/fr4nsys/apirest-to-soap-python/blob/main/README-ESP.md)
+
 ## Prerequisites
 
 - Access to a Linux machine.
@@ -98,7 +102,7 @@ The server will start and listen on port 8122 for incoming REST requests.
 
 ## Step 3: Make REST Requests
 
-Now you can send REST requests to the server on port 8122. Make sure to include the necessary data such as `texto` and `telefonos` in the POST request.
+Now you can send REST requests to the server on port 8122. Make sure to include the necessary data such as `text` and `phones` in the POST request.
 
 ## Step 4: Configured REST to SOAP Gateway
 
